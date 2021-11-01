@@ -19,3 +19,12 @@
 - It will count the quality of 'Dockerfile', 'docker-compose.yml'
 - Extra points if you use terraform and are in good practice
 - Extra points if you use ansible and are well structured
+
+
+
+# Solution
+
+- Fix postgres connection on api/app.js
+- Add dotenv library across the code
+- Dockerize both api and frontend
+- Create a docker-compose file
